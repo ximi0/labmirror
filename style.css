@@ -92,8 +92,8 @@
         .saved-mini-stack { 
             display: flex; 
             flex-direction: column; 
-            gap: 3px; /* Aumentamos el espacio */
-            height: 300px; /* Aumentamos la altura total */
+            gap: 3px;
+            height: 300px;
             margin-bottom: 1rem; 
             border: 1px solid #1f1f1f;
             border-radius: 4px;
@@ -110,7 +110,6 @@
 
         /* Proporciones Visuales (Selfie > Top > Bottom > Shoes) */
         .saved-mini-stack img:nth-child(1) {
-            /* Selfie - 30% */
             flex-basis: 25%; 
             max-height: 25%;
             object-position: center top;
@@ -165,7 +164,7 @@
             margin: 0 auto;
             display: flex;
             flex-direction: column;
-            height: 70vh; /* Altura de chat grande */
+            height: 70vh;
             min-height: 500px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
         }
