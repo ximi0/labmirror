@@ -5,7 +5,7 @@ const usersDatabase = [
     { id: 3, username: 'pro', password: 'pro123', name: 'Usuario Pro', subscription: 'pro' },
     { id: 4, username: 'pruebas', password: '123', name: 'Usuario Pruebas', subscription: 'basic' },
     { id: 5, username: 'aimar', password: '123', name: 'Aimar Perez', subscription: 'advanced' },
-    { id: 6, username: 'ariane', password: 'ariane123', name: 'Usuaria Pro', subscription: 'pro' }
+    { id: 6, username: 'ariane', password: 'ariane123', name: 'Ariane Varela', subscription: 'pro' }
 ];
 
 // ESTADO GLOBAL
